@@ -16,7 +16,7 @@
 title: Data Science Portfolio
 email: bharadwaj.89a@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site consists of collection of Projects related to Data Science, Machine Learning Concepts and Deep Learning Concepts.
+#   This site consists of collection of Projects related to Data Science, Machine Learning Concepts and Deep Learning Concepts.
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
