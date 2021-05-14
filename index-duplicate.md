@@ -8,7 +8,7 @@ excerpt: 'I am looking for new career opportunities.'
 
 # About me
 
-I'm currently looking for new opportunities in Data Science field and this site consists of collection of Projects related to Data Science, Machine Learning Concepts and Deep Learning that I've been working on.
+I'm currently looking for new opportunities in Data Science field and this site consists collection of Projects related to Machine Learning and Deep Learning concepts that I've been working on.
 
 ---
 
