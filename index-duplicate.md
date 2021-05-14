@@ -61,9 +61,9 @@ Find attached the PDF version of my CVs:
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
 *French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
-Update: 2020/01/13
+Update: 2021/05/14
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[bharadwaj.89a@gmail.com](mailto:bharadwaj.89a@gmail.com)_**
 
