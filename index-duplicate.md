@@ -42,24 +42,22 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Programming Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Python, Flask, Tensorflow, Keras, PySpark, PyTorch, Scikit-Learn, Matplotlib, Seaborn, Plotly, SQL, Git.**
 
-Familiar with: **Java**
+Familiar with: **HTML, CSS, Bootstrap, Javascript**
 
 ## Languages
 
 | Language | Level  |
 |----------|--------|
 | English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Hindi    | Fluent |
+| Telugu   | Fluent |
 
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
+*English version*: [CV]({{ site.url }}/download/CV_english.pdf)
 
 Update: 2021/05/14
 
