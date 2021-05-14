@@ -32,7 +32,7 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
+- **Graduate Exchange Program**:  
   I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
 
 - **Master Of Engineering** - Rouen (France):  
