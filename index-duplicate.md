@@ -44,7 +44,7 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 Proficient with: **Python, Flask, Tensorflow, Keras, PySpark, PyTorch, Scikit-Learn, Matplotlib, Seaborn, Plotly, SQL, Git.**
 
-Familiar with: **HTML, CSS, Bootstrap, Javascript**
+Familiar with: **Tableau, PowerBI, Spark, DevOps, CI/CD, HTML, CSS, Bootstrap, Javascript**
 
 ## Languages
 
